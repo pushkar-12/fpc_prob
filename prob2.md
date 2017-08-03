@@ -1,6 +1,8 @@
-<h1>Combat Trainees</h1>
+Combat Trainees
+===============
 Trainer Bob has been training and preparing N of his special trainees for the Annual Mega Combat which is about to happen in a few weeks. Though all his trainees have put in their best efforts in the process yet at the end of the training period, some are better than others. Bob needs to ascertain the abilities of all his trainees so that he could register the right candidate into the right category at the contest. The obvious way of letting one combat against the other in a mock combat comes to his mind and he does the same. He randomly picks two of his trainees, lets them battle in a combat round and records the winner in the format (“A B” denoting A beats B). Bob conducts several such rounds (k rounds) and now has a list of results of the rounds. Now he wonders if on the basis of the results ,he can ascertain a unique order of the trainees in the descending order of their capabilities.
 As usual he is stuck at this math and needs you to help.<br/><br/>
+
 **You can assume that if A beats B and B beats C then A is automatically better than C (A will beat C if their round is conducted)
 You can also assume no two trainees have identical abilities, one of them is bound to be better than the other.
 The trainees are labelled from 0 to N-1.**<br/>
