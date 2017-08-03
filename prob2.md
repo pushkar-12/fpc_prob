@@ -12,32 +12,32 @@ the round i.e. A is better than B.
 If the results provided are enough to a ascertain the unique order of trainees arranged in decreasing order of their skill level, then output the order (the best trainee being at the top)
 Otherwise output “cannot be decided”
 
-***Sample Input:***<br/>
-**5 5<br/>
+**Sample Input:**<br/>
+*5 5<br/>
 0 4<br/>
 4 2<br/>
 3 1<br/>
 4 3<br/>
-0 1<br/>**
+0 1<br/>*
 
-***Sample Output:***<br/>
-**cannot be decided**<br/>
+**Sample Output:**<br/>
+*cannot be decided*<br/>
 
-***Sample Input:***<br/>
-**6 7<br/>
+**Sample Input:**<br/>
+*6 7<br/>
 0 1<br/>
 0 2<br/>
 4 3<br/>
 2 3<br/>
 1 2<br/>
 3 5<br/>
-2 4<br/>**
+2 4<br/>*
 
-***Sample Output:***<br/>
-**0<br/>
+**Sample Output:**<br/>
+*0<br/>
 1<br/>
 2<br/>
 4<br/>
 3<br/>
-5<br/>**
+5<br/>*
 
