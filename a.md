@@ -13,7 +13,8 @@ Each line of test case contains a string composed of two characters ‘I’ and 
 For each input case, output a single integer that is the answer for that case.<br/>
 
 **Constraints:**<br/>
-2≤2N≤1000000<br/>
+1≤T≤10<br/>
+2≤2N≤200000<br/>
 
 **Sample Input:**<br/>
 *5<br/>
