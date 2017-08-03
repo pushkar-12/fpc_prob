@@ -4,11 +4,11 @@ As usual he is stuck at this math and needs you to help.<br/>
 You can also assume no two trainees have identical abilities, one of them is bound to be better than the other.<br/>
 The trainees are labelled from 0 to N-1.***
 
-***Input:***<br/>
+**Input:**<br/>
 First line of input contains two integers N (no of trainees) and k (no of rounds of combat conducted).
 K lines that follow contain an entry each in the form of two integers “A B” signifying that A beats B in 
 the round i.e. A is better than B.
-***Output:***<br/>
+**Output:**<br/>
 If the results provided are enough to a ascertain the unique order of trainees arranged in decreasing order of their skill level, then output the order (the best trainee being at the top)
 Otherwise output “cannot be decided”
 
