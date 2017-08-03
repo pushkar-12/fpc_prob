@@ -12,6 +12,11 @@ the round i.e. A is better than B.
 If the results provided are enough to a ascertain the unique order of trainees arranged in decreasing order of their skill level, then output the order (the best trainee being at the top)
 Otherwise output “cannot be decided”
 
+**Constraints:**<br/>
+1≤N≤1000<br/>
+0≤K≤N(N-1)/2<br/>
+
+
 **Sample Input:**<br/>
 *5 5<br/>
 0 4<br/>
