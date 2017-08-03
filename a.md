@@ -1,3 +1,4 @@
+<h1>Dexter's Dilemma</h1>
 In Dexter’s laboratory is present a series of 2N input and output nodes located at marked positions in a line. A node is either an input type or an output type, not both. There are exactly N input nodes and N output nodes. There is a control server at one end of the line of nodes that ensures the proper functioning of all nodes.Dexter wants to conduct an experiment in which the most important requirement is that there **must not be** any position x (1≤x≤N), such that the no of output nodes located at positions less than or equal to x (with the position nearest to the control server being considered 1) exceed the no of input nodes located at positions less than or equal to x.
 
 **Unfortunately, his sister Dee-Dee, has randomly arranged the input and output nodes.**
