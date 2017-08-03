@@ -15,7 +15,7 @@ For each input case, output a single integer that is the answer for that case.
 ""Constraints:""
 2≤2N≤1000000
 
-""Sample Input:""
+**Sample Input:**
 *5
 OOOOIIII
 OOIIOIOIIO
