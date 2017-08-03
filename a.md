@@ -14,7 +14,7 @@ For each input case, output a single integer that is the answer for that case.<b
 
 **Constraints:**<br/>
 1≤T≤10<br/>
-2≤2N≤200000<br/>
+2≤2N≤100000<br/>
 
 **Sample Input:**<br/>
 *5<br/>
